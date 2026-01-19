@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device tree -->
+  <project path="device/motorola/deen" name="android_device_motorola_deen" remote="github" revision="android-9.0" />
+  
+  <!-- Kernel (se disponibile, altrimenti commenta) -->
+  <!-- <project path="kernel/motorola/msm8953" name="android_kernel_motorola_msm8953" remote="github" revision="android-9.0" /> -->
+  
+  <!-- Vendor (se disponibile) -->
+  <!-- <project path="vendor/motorola/deen" name="android_vendor_motorola_deen" remote="github" revision="android-9.0" /> -->
+</manifest>
